@@ -1,0 +1,212 @@
+body{
+background:rgb(215, 215, 154);
+}
+
+
+.parent{
+background-color: #606c38;
+width: 80%;
+margin: auto;
+border-radius: 20px;
+padding-block: 10px;
+color: beige;
+padding-inline: 20px;;
+}
+
+.parent h1 {
+text-align: center;
+}
+
+.parent p{
+text-align: center;
+}
+
+#a1{
+background-color: beige;
+color: #606c38;
+margin-left: 35%;
+border-radius: 20px;
+padding-inline: 20px;
+}
+
+#s1{
+background-color: beige;
+color: #606c38;
+margin: auto;
+border-radius: 20px;
+padding-inline: 20px;
+}
+
+#e1{
+background-color: beige;
+color: #606c38;
+margin: auto;
+border-radius: 20px;
+padding-inline: 20px;
+}
+
+
+#c1{
+background-color: beige;
+color: #606c38;
+margin: auto;
+border-radius: 20px;
+padding-inline: 20px;
+}
+
+
+
+.about{
+width: 80%;
+background-color: beige;
+padding-bottom: 10px;
+margin: auto;
+border-radius: 20px;
+padding-inline: 20px;
+}
+
+.about h2{
+color:  #606c38 ;
+}
+
+.about a{
+background-color:  #606c38;
+color: beige;
+
+border-radius: 20px;
+padding-inline:40px;
+padding-block: 30px;
+  
+}
+
+.about p{
+width: 50%;
+margin: auto;
+margin-bottom: 50px;
+display: inline-block;
+text-align: center;
+}
+
+
+
+span{
+color: #606c38;
+}
+
+.about img{
+width: 15%;
+border-radius: 50%;
+margin-block: 20px;
+margin-left: 20px;
+}
+
+.skills{
+
+width: 80%;
+background-color: beige;
+padding-bottom: 10px;
+margin: auto;
+border-radius: 20px;
+padding-inline: 20px;
+
+}
+
+.skills h2
+{color: #606c38;}
+
+.skills p
+{color: beige ;}
+
+  
+
+
+
+
+.box{
+
+
+background-color: #606c38;
+color: beige;
+width: 20%;
+margin: auto;
+border-radius: 20px;
+padding-inline: 20px;
+display: inline-block ;
+box-sizing: border-box;
+margin-left: 40px;
+}
+
+
+
+.experience {
+background-color: beige;
+width: 80%;
+margin: auto;  
+border-radius: 20px;
+padding-bottom: 20px;
+padding-inline: 20px;
+}
+
+.experience h2{
+color:  #606c38 ;
+}
+
+
+.experience h4{color: #606c38 ;}
+
+
+
+.contactme{
+background-color: #606c38;
+width: 80%;
+margin-left: 400px;
+border-radius: 20px;
+padding-inline: 20px;
+color:  beige;
+margin: auto;
+text-align: center;
+padding-bottom: 20px;
+}
+
+#linkedin{
+background-color: beige;
+color: #606c38;
+margin: auto;
+border-radius: 20px;
+padding-inline: 20px;
+}
+
+
+#gmail{
+background-color: beige;
+color: #606c38;
+margin: auto;
+border-radius: 20px;
+padding-inline: 20px;
+}
+
+
+#github{
+background-color: beige;
+color: #606c38;
+margin: auto;
+border-radius: 20px;
+padding-inline: 20px;
+}
+
+
+
+.experience img{
+
+border-radius: 50%;
+}
+
+.about p{
+text-align: center;
+}
+
+
+
+
+
+
